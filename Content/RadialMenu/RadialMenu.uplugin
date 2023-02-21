@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3",
+	"FriendlyName": "Radial Menu",
+	"Description": "Radial menu plugin. This menu helps you make a radial style menu with the ability to freely change button looks by your desire.",
+	"Category": "UMG",
+	"CreatedBy": "Igor Lekic",
+	"CreatedByURL": "https://igorlekic.com/",
+	"DocsURL": "https://docs.google.com/document/d/1JEWwANoqZvGC5mqLZFzefTK42f1E_TVsNjot5xDem3Y/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/be623df092c442609c20a840630031fb",
+	"SupportURL": "https://igorlekic.com/",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RadialMenu",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}
